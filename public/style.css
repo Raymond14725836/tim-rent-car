@@ -278,6 +278,7 @@ small,
 .car-art {
   height: 200px;
   position: relative;
+  overflow: hidden;
   display: grid;
   place-items: center;
   background: linear-gradient(130deg, #e9e8e1, #f5f3ef 55%, #d1cec8);
@@ -1082,6 +1083,9 @@ dialog::backdrop {
   border-radius: 5px;
 }
 .car-art .vehicle-photo {
+  /* Keep intrinsic image sizing from expanding the grid row over the title. */
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
