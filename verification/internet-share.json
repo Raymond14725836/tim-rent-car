@@ -1,0 +1,9 @@
+{
+  "publicHttpsVerified": true,
+  "unauthenticatedAccess": "redirected to Cloudflare email authentication",
+  "localBackendHealth": true,
+  "secureCookie": true,
+  "publicOriginAccepted": true,
+  "qrUsesPublicHttps": true,
+  "verificationScope": "Public authentication gateway plus local backend configured with public host; human mobile email/PIN journey still requires owner confirmation."
+}
