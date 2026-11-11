@@ -1,0 +1,40 @@
+{
+  "scenario": "Car photos remain inside their frames and do not cover titles",
+  "results": [
+    {
+      "count": 4,
+      "escapedImage": false,
+      "overflow": false,
+      "overlap": false,
+      "width": 1920
+    },
+    {
+      "count": 4,
+      "escapedImage": false,
+      "overflow": false,
+      "overlap": false,
+      "width": 1440
+    },
+    {
+      "count": 4,
+      "escapedImage": false,
+      "overflow": false,
+      "overlap": false,
+      "width": 1024
+    },
+    {
+      "count": 4,
+      "escapedImage": false,
+      "overflow": false,
+      "overlap": false,
+      "width": 768
+    },
+    {
+      "count": 4,
+      "escapedImage": false,
+      "overflow": false,
+      "overlap": false,
+      "width": 390
+    }
+  ]
+}
