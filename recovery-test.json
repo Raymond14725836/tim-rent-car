@@ -1,0 +1,25 @@
+{
+  "testedAt": "2026-11-11T17:19:31.999Z",
+  "failure": "Abruptly terminated the isolated server process",
+  "automaticRestarts": 1,
+  "recoveryMs": 417,
+  "sessionSurvived": true,
+  "dataSurvived": true,
+  "pass": true,
+  "availability": {
+    "targetMonthlyPercent": 99,
+    "monthlyStatus": "not_yet_verified",
+    "reason": "A short local run and recovery test cannot establish a complete calendar month of availability.",
+    "observations": 6,
+    "healthyObservations": 4,
+    "observedSamplePercent": 66.67,
+    "firstObservation": "2026-11-11T17:19:28.903Z",
+    "lastObservation": "2026-11-11T17:19:31.540Z",
+    "observedSpanSeconds": 3,
+    "longestGapSeconds": 1,
+    "lastObservationAgeSeconds": 0,
+    "restarts": 1,
+    "scope": "Sample-based local observations only. Gaps while the monitor or computer is off are not counted as successful uptime."
+  },
+  "scope": "Short fault-injection recovery test; not a monthly 99% availability measurement."
+}

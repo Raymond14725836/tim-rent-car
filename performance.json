@@ -1,0 +1,32 @@
+{
+  "testedAt": "2026-11-11, 11:29:07 p.m.",
+  "timezone": "Asia/Bangkok",
+  "environment": "Local Node.js v24.22.0",
+  "scope": "100 concurrent HTTP requests per workflow. Not a production capacity or monthly availability certification.",
+  "results": [
+    {
+      "workflow": "list-cars",
+      "concurrentRequests": 100,
+      "success": 100,
+      "p95Ms": 30,
+      "maxMs": 31,
+      "within3Seconds": 100
+    },
+    {
+      "workflow": "quote",
+      "concurrentRequests": 100,
+      "success": 100,
+      "p95Ms": 29,
+      "maxMs": 30,
+      "within3Seconds": 100
+    },
+    {
+      "workflow": "my-bookings",
+      "concurrentRequests": 100,
+      "success": 100,
+      "p95Ms": 28,
+      "maxMs": 30,
+      "within3Seconds": 100
+    }
+  ]
+}

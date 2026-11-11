@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>ทดสอบผู้ใช้ใหม่ | Tim Rent Car</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main class="container" style="max-width: 760px">
+      <h1>ทดสอบการค้นหารถสำหรับผู้ใช้ใหม่</h1>
+      <p>
+        ใช้รหัสผู้ทดสอบแทนชื่อจริง
+        ระบบจับเวลาตั้งแต่เริ่มจนค้นหารถตรงโจทย์สำเร็จ เป้าหมายไม่เกิน 5 นาที
+        ไม่มีการจองหรือเรียกเก็บเงิน
+      </p>
+      <section class="panel">
+        <form id="study-form">
+          <label
+            >รหัสผู้ทดสอบ เช่น P001<input
+              name="participant"
+              required
+              pattern="[A-Za-z0-9_-]{1,20}"
+              maxlength="20" /></label
+          ><label
+            ><input
+              name="newUser"
+              type="checkbox"
+              required
+            />ฉันยังไม่เคยใช้ระบบนี้เพื่อค้นหารถมาก่อน</label
+          ><label
+            ><input
+              name="consent"
+              type="checkbox"
+              required
+            />ยินยอมบันทึกรหัสผู้ทดสอบ เวลาเริ่ม/สิ้นสุด
+            และผลสำเร็จในเครื่องนี้เพื่อใช้ประเมินโครงการ</label
+          ><button class="primary wide">เริ่มจับเวลาและรับโจทย์</button>
+          <div id="error" class="error" hidden></div>
+        </form>
+      </section>
+      <p class="statusnote">
+        ผู้ที่เคยใช้งานแล้วไม่ควรกรอกว่าเป็นผู้ใช้ใหม่
+        ผลอัตโนมัติของโปรแกรมไม่ใช้แทนผลจากผู้ใช้จริง
+      </p>
+      <a href="/">กลับหน้าแรก</a>
+    </main>
+    <script type="module" src="/usability.js"></script>
+  </body>
+</html>

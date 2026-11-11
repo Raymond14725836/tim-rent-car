@@ -1,0 +1,738 @@
+{
+  "testedAt": "2026-11-11T17:13:59.700Z",
+  "timezone": "UTC",
+  "environment": "v24.22.0",
+  "transport": "HTTPS with explicit certificate trust, rejectUnauthorized=true",
+  "certificateFingerprint": "D1:A3:43:17:EB:C8:C1:81:AF:AC:94:F9:53:3D:76:F1:B6:E1:47:7F:30:F2:12:E0:5E:04:5E:F0:FA:61:B3:2C",
+  "protocols": [
+    {
+      "requested": "TLSv1.2",
+      "negotiated": "TLSv1.2",
+      "verified": true
+    },
+    {
+      "requested": "TLSv1.3",
+      "negotiated": "TLSv1.3",
+      "verified": true
+    }
+  ],
+  "virtualUsers": 100,
+  "independentAccounts": 100,
+  "independentSessions": 100,
+  "peakConcurrentJourneys": 100,
+  "completedJourneys": 100,
+  "failedJourneys": 0,
+  "durationMs": 7857,
+  "overall": {
+    "requests": 1400,
+    "p95Ms": 2124,
+    "maxMs": 3585,
+    "within3Seconds": 1371,
+    "within3SecondsPercent": 97.93
+  },
+  "byStep": {
+    "login": {
+      "requests": 100,
+      "p95Ms": 833,
+      "maxMs": 845,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "search": {
+      "requests": 100,
+      "p95Ms": 236,
+      "maxMs": 245,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "quote": {
+      "requests": 100,
+      "p95Ms": 209,
+      "maxMs": 216,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "book": {
+      "requests": 100,
+      "p95Ms": 311,
+      "maxMs": 373,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "sign": {
+      "requests": 100,
+      "p95Ms": 349,
+      "maxMs": 367,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "payment-session": {
+      "requests": 100,
+      "p95Ms": 843,
+      "maxMs": 857,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "gateway-open": {
+      "requests": 100,
+      "p95Ms": 329,
+      "maxMs": 424,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "gateway-confirm": {
+      "requests": 100,
+      "p95Ms": 424,
+      "maxMs": 441,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "confirmation": {
+      "requests": 100,
+      "p95Ms": 408,
+      "maxMs": 439,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "my-bookings": {
+      "requests": 100,
+      "p95Ms": 426,
+      "maxMs": 543,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "inbox": {
+      "requests": 100,
+      "p95Ms": 544,
+      "maxMs": 999,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "receipt-pdf": {
+      "requests": 100,
+      "p95Ms": 1049,
+      "maxMs": 2163,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    },
+    "email-download": {
+      "requests": 100,
+      "p95Ms": 3548,
+      "maxMs": 3585,
+      "within3Seconds": 71,
+      "within3SecondsPercent": 71
+    },
+    "logout": {
+      "requests": 100,
+      "p95Ms": 1808,
+      "maxMs": 1856,
+      "within3Seconds": 100,
+      "within3SecondsPercent": 100
+    }
+  },
+  "pass": true,
+  "failures": [],
+  "manifest": [
+    {
+      "virtualUser": 1,
+      "bookingId": "TRC-77CAF601BA89",
+      "completed": true,
+      "durationMs": 3534
+    },
+    {
+      "virtualUser": 2,
+      "bookingId": "TRC-C36A788CB213",
+      "completed": true,
+      "durationMs": 3536
+    },
+    {
+      "virtualUser": 4,
+      "bookingId": "TRC-6EE2739E5FFC",
+      "completed": true,
+      "durationMs": 3538
+    },
+    {
+      "virtualUser": 3,
+      "bookingId": "TRC-0D11B65541F1",
+      "completed": true,
+      "durationMs": 3542
+    },
+    {
+      "virtualUser": 5,
+      "bookingId": "TRC-3BF5BCC037C3",
+      "completed": true,
+      "durationMs": 3544
+    },
+    {
+      "virtualUser": 6,
+      "bookingId": "TRC-0C739ED565A9",
+      "completed": true,
+      "durationMs": 3546
+    },
+    {
+      "virtualUser": 7,
+      "bookingId": "TRC-3B6883FBA9F9",
+      "completed": true,
+      "durationMs": 3549
+    },
+    {
+      "virtualUser": 8,
+      "bookingId": "TRC-56394F9452CF",
+      "completed": true,
+      "durationMs": 3552
+    },
+    {
+      "virtualUser": 9,
+      "bookingId": "TRC-6E935E6D3370",
+      "completed": true,
+      "durationMs": 3554
+    },
+    {
+      "virtualUser": 11,
+      "bookingId": "TRC-F45ACE340300",
+      "completed": true,
+      "durationMs": 3556
+    },
+    {
+      "virtualUser": 10,
+      "bookingId": "TRC-CD4638D13034",
+      "completed": true,
+      "durationMs": 3559
+    },
+    {
+      "virtualUser": 12,
+      "bookingId": "TRC-B912B5CC4A21",
+      "completed": true,
+      "durationMs": 3562
+    },
+    {
+      "virtualUser": 13,
+      "bookingId": "TRC-2A895D7C943F",
+      "completed": true,
+      "durationMs": 3564
+    },
+    {
+      "virtualUser": 14,
+      "bookingId": "TRC-7B74CD4FA083",
+      "completed": true,
+      "durationMs": 3567
+    },
+    {
+      "virtualUser": 15,
+      "bookingId": "TRC-96235E7BB122",
+      "completed": true,
+      "durationMs": 3570
+    },
+    {
+      "virtualUser": 16,
+      "bookingId": "TRC-44823392FE8C",
+      "completed": true,
+      "durationMs": 3573
+    },
+    {
+      "virtualUser": 17,
+      "bookingId": "TRC-1420CC3681EF",
+      "completed": true,
+      "durationMs": 4145
+    },
+    {
+      "virtualUser": 18,
+      "bookingId": "TRC-9366A93AE872",
+      "completed": true,
+      "durationMs": 4166
+    },
+    {
+      "virtualUser": 19,
+      "bookingId": "TRC-02B8DA6892C5",
+      "completed": true,
+      "durationMs": 5438
+    },
+    {
+      "virtualUser": 20,
+      "bookingId": "TRC-058050C86485",
+      "completed": true,
+      "durationMs": 5450
+    },
+    {
+      "virtualUser": 21,
+      "bookingId": "TRC-B530F7B9310A",
+      "completed": true,
+      "durationMs": 5472
+    },
+    {
+      "virtualUser": 22,
+      "bookingId": "TRC-827BF26C40DB",
+      "completed": true,
+      "durationMs": 5501
+    },
+    {
+      "virtualUser": 23,
+      "bookingId": "TRC-6AF090B9E595",
+      "completed": true,
+      "durationMs": 5531
+    },
+    {
+      "virtualUser": 24,
+      "bookingId": "TRC-A7174A29A29F",
+      "completed": true,
+      "durationMs": 5552
+    },
+    {
+      "virtualUser": 25,
+      "bookingId": "TRC-9C7ED576D944",
+      "completed": true,
+      "durationMs": 7314
+    },
+    {
+      "virtualUser": 26,
+      "bookingId": "TRC-B1085E62FBEA",
+      "completed": true,
+      "durationMs": 7317
+    },
+    {
+      "virtualUser": 27,
+      "bookingId": "TRC-30F0BE51D9B8",
+      "completed": true,
+      "durationMs": 7321
+    },
+    {
+      "virtualUser": 28,
+      "bookingId": "TRC-E317A28F1FE2",
+      "completed": true,
+      "durationMs": 7324
+    },
+    {
+      "virtualUser": 29,
+      "bookingId": "TRC-8DDAA63C9127",
+      "completed": true,
+      "durationMs": 7327
+    },
+    {
+      "virtualUser": 31,
+      "bookingId": "TRC-7F3C93E704F5",
+      "completed": true,
+      "durationMs": 7331
+    },
+    {
+      "virtualUser": 30,
+      "bookingId": "TRC-2B242369C4D5",
+      "completed": true,
+      "durationMs": 7335
+    },
+    {
+      "virtualUser": 32,
+      "bookingId": "TRC-40A21E3C68B6",
+      "completed": true,
+      "durationMs": 7338
+    },
+    {
+      "virtualUser": 33,
+      "bookingId": "TRC-218E53264F94",
+      "completed": true,
+      "durationMs": 7342
+    },
+    {
+      "virtualUser": 34,
+      "bookingId": "TRC-B5311AC9F835",
+      "completed": true,
+      "durationMs": 7352
+    },
+    {
+      "virtualUser": 35,
+      "bookingId": "TRC-5824CFCC097A",
+      "completed": true,
+      "durationMs": 7356
+    },
+    {
+      "virtualUser": 36,
+      "bookingId": "TRC-F0D37E551C7E",
+      "completed": true,
+      "durationMs": 7360
+    },
+    {
+      "virtualUser": 37,
+      "bookingId": "TRC-906DD1EC8B6B",
+      "completed": true,
+      "durationMs": 7387
+    },
+    {
+      "virtualUser": 38,
+      "bookingId": "TRC-E737910398DC",
+      "completed": true,
+      "durationMs": 7520
+    },
+    {
+      "virtualUser": 39,
+      "bookingId": "TRC-AEAC13B7D8E0",
+      "completed": true,
+      "durationMs": 7526
+    },
+    {
+      "virtualUser": 40,
+      "bookingId": "TRC-3D5CF6177848",
+      "completed": true,
+      "durationMs": 7538
+    },
+    {
+      "virtualUser": 41,
+      "bookingId": "TRC-AAE14A2FAFB6",
+      "completed": true,
+      "durationMs": 7547
+    },
+    {
+      "virtualUser": 42,
+      "bookingId": "TRC-8C0CC4958D19",
+      "completed": true,
+      "durationMs": 7551
+    },
+    {
+      "virtualUser": 43,
+      "bookingId": "TRC-B14CC32EAA93",
+      "completed": true,
+      "durationMs": 7567
+    },
+    {
+      "virtualUser": 44,
+      "bookingId": "TRC-ED9E6EEC879E",
+      "completed": true,
+      "durationMs": 7571
+    },
+    {
+      "virtualUser": 45,
+      "bookingId": "TRC-611C7D144BD0",
+      "completed": true,
+      "durationMs": 7581
+    },
+    {
+      "virtualUser": 46,
+      "bookingId": "TRC-A9982EBEB7A3",
+      "completed": true,
+      "durationMs": 7607
+    },
+    {
+      "virtualUser": 47,
+      "bookingId": "TRC-F55734DB00EC",
+      "completed": true,
+      "durationMs": 7635
+    },
+    {
+      "virtualUser": 48,
+      "bookingId": "TRC-144FAE47E4FC",
+      "completed": true,
+      "durationMs": 7639
+    },
+    {
+      "virtualUser": 49,
+      "bookingId": "TRC-EAEC2A93F929",
+      "completed": true,
+      "durationMs": 7643
+    },
+    {
+      "virtualUser": 50,
+      "bookingId": "TRC-37A4F89DA728",
+      "completed": true,
+      "durationMs": 7646
+    },
+    {
+      "virtualUser": 52,
+      "bookingId": "TRC-9A76B1CE82E7",
+      "completed": true,
+      "durationMs": 7649
+    },
+    {
+      "virtualUser": 51,
+      "bookingId": "TRC-070BF88D34F4",
+      "completed": true,
+      "durationMs": 7654
+    },
+    {
+      "virtualUser": 54,
+      "bookingId": "TRC-8991F3595A7C",
+      "completed": true,
+      "durationMs": 7660
+    },
+    {
+      "virtualUser": 55,
+      "bookingId": "TRC-02CBC0081892",
+      "completed": true,
+      "durationMs": 7663
+    },
+    {
+      "virtualUser": 53,
+      "bookingId": "TRC-9340C01DEBAF",
+      "completed": true,
+      "durationMs": 7669
+    },
+    {
+      "virtualUser": 56,
+      "bookingId": "TRC-315A93361976",
+      "completed": true,
+      "durationMs": 7672
+    },
+    {
+      "virtualUser": 57,
+      "bookingId": "TRC-424023B2729D",
+      "completed": true,
+      "durationMs": 7675
+    },
+    {
+      "virtualUser": 58,
+      "bookingId": "TRC-5CF116598400",
+      "completed": true,
+      "durationMs": 7678
+    },
+    {
+      "virtualUser": 59,
+      "bookingId": "TRC-7E33D908A16C",
+      "completed": true,
+      "durationMs": 7681
+    },
+    {
+      "virtualUser": 60,
+      "bookingId": "TRC-A229735F2D53",
+      "completed": true,
+      "durationMs": 7684
+    },
+    {
+      "virtualUser": 78,
+      "bookingId": "TRC-9D163EBBDDD1",
+      "completed": true,
+      "durationMs": 7682
+    },
+    {
+      "virtualUser": 61,
+      "bookingId": "TRC-B967B5347DBA",
+      "completed": true,
+      "durationMs": 7690
+    },
+    {
+      "virtualUser": 95,
+      "bookingId": "TRC-A809C0E3F304",
+      "completed": true,
+      "durationMs": 7683
+    },
+    {
+      "virtualUser": 94,
+      "bookingId": "TRC-0AF4F8C29CE6",
+      "completed": true,
+      "durationMs": 7686
+    },
+    {
+      "virtualUser": 62,
+      "bookingId": "TRC-B76262B60723",
+      "completed": true,
+      "durationMs": 7715
+    },
+    {
+      "virtualUser": 63,
+      "bookingId": "TRC-1F160BD7F458",
+      "completed": true,
+      "durationMs": 7718
+    },
+    {
+      "virtualUser": 64,
+      "bookingId": "TRC-4D3E9E0D2BF0",
+      "completed": true,
+      "durationMs": 7720
+    },
+    {
+      "virtualUser": 65,
+      "bookingId": "TRC-820A4BA3A22F",
+      "completed": true,
+      "durationMs": 7723
+    },
+    {
+      "virtualUser": 66,
+      "bookingId": "TRC-D49270A6D7EC",
+      "completed": true,
+      "durationMs": 7726
+    },
+    {
+      "virtualUser": 67,
+      "bookingId": "TRC-1F1B650C42AC",
+      "completed": true,
+      "durationMs": 7730
+    },
+    {
+      "virtualUser": 70,
+      "bookingId": "TRC-6CDA7E5355DC",
+      "completed": true,
+      "durationMs": 7732
+    },
+    {
+      "virtualUser": 69,
+      "bookingId": "TRC-EE4C5E278333",
+      "completed": true,
+      "durationMs": 7735
+    },
+    {
+      "virtualUser": 71,
+      "bookingId": "TRC-C6D6074E77DE",
+      "completed": true,
+      "durationMs": 7737
+    },
+    {
+      "virtualUser": 72,
+      "bookingId": "TRC-D71432C4A839",
+      "completed": true,
+      "durationMs": 7740
+    },
+    {
+      "virtualUser": 73,
+      "bookingId": "TRC-1B6A76C74970",
+      "completed": true,
+      "durationMs": 7743
+    },
+    {
+      "virtualUser": 75,
+      "bookingId": "TRC-AFC3E07DE402",
+      "completed": true,
+      "durationMs": 7745
+    },
+    {
+      "virtualUser": 76,
+      "bookingId": "TRC-46A9325F7F0B",
+      "completed": true,
+      "durationMs": 7748
+    },
+    {
+      "virtualUser": 68,
+      "bookingId": "TRC-FF22C22A4AD3",
+      "completed": true,
+      "durationMs": 7753
+    },
+    {
+      "virtualUser": 77,
+      "bookingId": "TRC-921FB7B91656",
+      "completed": true,
+      "durationMs": 7753
+    },
+    {
+      "virtualUser": 74,
+      "bookingId": "TRC-11BCB78092F0",
+      "completed": true,
+      "durationMs": 7757
+    },
+    {
+      "virtualUser": 80,
+      "bookingId": "TRC-5F6890CECC2B",
+      "completed": true,
+      "durationMs": 7758
+    },
+    {
+      "virtualUser": 81,
+      "bookingId": "TRC-67B2998BCD02",
+      "completed": true,
+      "durationMs": 7761
+    },
+    {
+      "virtualUser": 79,
+      "bookingId": "TRC-36C82872F624",
+      "completed": true,
+      "durationMs": 7765
+    },
+    {
+      "virtualUser": 83,
+      "bookingId": "TRC-CA97D6AA3C4E",
+      "completed": true,
+      "durationMs": 7767
+    },
+    {
+      "virtualUser": 84,
+      "bookingId": "TRC-A3031E6BBA95",
+      "completed": true,
+      "durationMs": 7770
+    },
+    {
+      "virtualUser": 82,
+      "bookingId": "TRC-FB40F0E8A8DE",
+      "completed": true,
+      "durationMs": 7773
+    },
+    {
+      "virtualUser": 85,
+      "bookingId": "TRC-616F0D2F07D3",
+      "completed": true,
+      "durationMs": 7778
+    },
+    {
+      "virtualUser": 86,
+      "bookingId": "TRC-A5DB2D3D95C8",
+      "completed": true,
+      "durationMs": 7781
+    },
+    {
+      "virtualUser": 87,
+      "bookingId": "TRC-910C5C30E46C",
+      "completed": true,
+      "durationMs": 7783
+    },
+    {
+      "virtualUser": 88,
+      "bookingId": "TRC-E5CC426E13EE",
+      "completed": true,
+      "durationMs": 7786
+    },
+    {
+      "virtualUser": 91,
+      "bookingId": "TRC-D36BFD732A35",
+      "completed": true,
+      "durationMs": 7788
+    },
+    {
+      "virtualUser": 90,
+      "bookingId": "TRC-E2263DCA3389",
+      "completed": true,
+      "durationMs": 7792
+    },
+    {
+      "virtualUser": 93,
+      "bookingId": "TRC-36D619654272",
+      "completed": true,
+      "durationMs": 7794
+    },
+    {
+      "virtualUser": 92,
+      "bookingId": "TRC-E32E44A25B36",
+      "completed": true,
+      "durationMs": 7802
+    },
+    {
+      "virtualUser": 89,
+      "bookingId": "TRC-771145420A81",
+      "completed": true,
+      "durationMs": 7811
+    },
+    {
+      "virtualUser": 96,
+      "bookingId": "TRC-1FCA75757C61",
+      "completed": true,
+      "durationMs": 7812
+    },
+    {
+      "virtualUser": 97,
+      "bookingId": "TRC-73D9B9433A36",
+      "completed": true,
+      "durationMs": 7815
+    },
+    {
+      "virtualUser": 100,
+      "bookingId": "TRC-582F2D5117A2",
+      "completed": true,
+      "durationMs": 7818
+    },
+    {
+      "virtualUser": 99,
+      "bookingId": "TRC-19D1BD8928CA",
+      "completed": true,
+      "durationMs": 7821
+    },
+    {
+      "virtualUser": 98,
+      "bookingId": "TRC-85A04EC5099E",
+      "completed": true,
+      "durationMs": 7825
+    }
+  ],
+  "scope": "100 concurrent virtual users completing independent customer journeys, including authenticated booking, signature, QR test payment, PDF and email attachments. Test gateway and local test inbox as approved. Not a human usability study or monthly availability measurement."
+}

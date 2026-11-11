@@ -1,0 +1,7002 @@
+[
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 163
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 165
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 171
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 173
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 174
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 178
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 181
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 184
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 26
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 25
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 23
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 22
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 21
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 20
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 200
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 205
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 208
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 31
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 29
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 27
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 25
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 24
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 22
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 21
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 20
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 18
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 18
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 224
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 228
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 231
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 29
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 28
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 27
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 25
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 29
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 32
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 35
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 38
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 42
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 47
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 46
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 44
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 43
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 45
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 44
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 279
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 284
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 289
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 294
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 299
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 303
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 306
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 80
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 79
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 77
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 80
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 83
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 81
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 82
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 82
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 82
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 81
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 78
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 82
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 85
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 83
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 79
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 77
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 76
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 350
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 353
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 357
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 359
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 362
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 365
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 369
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 371
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 374
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 377
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 380
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 383
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 112
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 109
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 105
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 102
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 99
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 96
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 96
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 94
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 97
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 101
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 101
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 101
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 149
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 149
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 152
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 155
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 158
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 155
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 154
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 507
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 509
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 513
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 515
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 518
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 521
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 524
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 527
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 530
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 533
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 536
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 539
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 542
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 544
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 547
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 550
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 553
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 557
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 560
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 563
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 566
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 569
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 221
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 221
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 218
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 217
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 215
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 209
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 207
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 206
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 204
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 205
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 204
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 204
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 159
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 157
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 154
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 658
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 661
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 664
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 667
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 669
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 672
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 675
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 677
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 680
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 683
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 686
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 688
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 691
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 693
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 696
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 699
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 706
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 709
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 711
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 714
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 716
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 719
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 722
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 724
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 727
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 232
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 230
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 229
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 228
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 226
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 225
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 220
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 218
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 216
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 210
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 207
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 206
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 204
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 204
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 201
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 199
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 197
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 193
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 191
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 189
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 188
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 186
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 185
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 183
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 185
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 188
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 191
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 194
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 196
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 199
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 201
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 189
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 200
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 205
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 203
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 857
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 862
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 867
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 869
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 872
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 874
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 877
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 879
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 882
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 884
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 886
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 889
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 891
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 894
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 899
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 902
+  },
+  {
+    "step": "login",
+    "status": 200,
+    "ms": 904
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 255
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 253
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 253
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 252
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 251
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 249
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 248
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 247
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 247
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 246
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 244
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 244
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 242
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 241
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 233
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 233
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 231
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 230
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 229
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 228
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 227
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 226
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 224
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 220
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 217
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 216
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 210
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 209
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 207
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 206
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 205
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 203
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 201
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 200
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 198
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 196
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 194
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 197
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 200
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 203
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 206
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 209
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 212
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 215
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 217
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 220
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 223
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 187
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 185
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 187
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 186
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 184
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 181
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 178
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 178
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 177
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 176
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 175
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 174
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 173
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 172
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 171
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 170
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 762
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 759
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 752
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 745
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 756
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 670
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 749
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 666
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 593
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 590
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 473
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 470
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 431
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 428
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 171
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 167
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 166
+  },
+  {
+    "step": "search",
+    "status": 200,
+    "ms": 165
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 163
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 162
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 161
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 159
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 157
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 155
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 154
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 153
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 151
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 149
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 147
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 146
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 145
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 143
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 142
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 141
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 139
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 138
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 137
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 135
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 134
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 133
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 131
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 130
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 133
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 138
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 141
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 144
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 147
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 149
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 152
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 155
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 162
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 167
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 173
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 178
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 181
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 183
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 186
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 189
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 192
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 195
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 197
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 200
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 203
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 203
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 203
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 202
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 201
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 229
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 232
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 230
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 229
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 227
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 225
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 224
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 220
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 217
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 216
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 212
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 488
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 445
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 211
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 209
+  },
+  {
+    "step": "quote",
+    "status": 200,
+    "ms": 208
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 210
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 213
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 215
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 218
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 221
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 224
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 227
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 229
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 232
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 235
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 238
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 240
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 243
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 245
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 248
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 251
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 253
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 255
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 258
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 261
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 264
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 267
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 270
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 273
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 272
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 269
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 269
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 269
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 265
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 263
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 259
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 257
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 257
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 257
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 257
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 257
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 256
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 237
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 240
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 243
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 246
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 249
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 252
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 255
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 257
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 260
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 263
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 265
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 268
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 271
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 277
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 279
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 282
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 288
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 290
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 575
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 573
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 570
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 567
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 564
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 561
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 558
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 537
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 534
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 294
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 297
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 302
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 302
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 302
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 305
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 309
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 315
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 320
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 323
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 326
+  },
+  {
+    "step": "book",
+    "status": 201,
+    "ms": 329
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 329
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 329
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 329
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 337
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 334
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 331
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 325
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 322
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 319
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 317
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 721
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 719
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 716
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 713
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 710
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 707
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 704
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 702
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 698
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 619
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 696
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 315
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 307
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 310
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 313
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 310
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 306
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 304
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 301
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 298
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 299
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 301
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 303
+  },
+  {
+    "step": "sign",
+    "status": 200,
+    "ms": 303
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 308
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 309
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 309
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 308
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 308
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 309
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 308
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 311
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 314
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 317
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 320
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 324
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 855
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 852
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 847
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 841
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 838
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 835
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 832
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 850
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 830
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 827
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 824
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 821
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 819
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 817
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 813
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 810
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 805
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 802
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 799
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 808
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 711
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 847
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 331
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 331
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 331
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 336
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 339
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 340
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 75
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 75
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 75
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 75
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 76
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 76
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 76
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 73
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 70
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 67
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 68
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 64
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 61
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 66
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 66
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 66
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 65
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 669
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 667
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 661
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 658
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 656
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 664
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 653
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 647
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 650
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 645
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 642
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 639
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 636
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 630
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 628
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 634
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 619
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 625
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 616
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 622
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 610
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 607
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 438
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 614
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 432
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 426
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 421
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 418
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 415
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 412
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 409
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 403
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 606
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 70
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 69
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 72
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 75
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 78
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 81
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 83
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 87
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 93
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 96
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 99
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 96
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 93
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 89
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 88
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 88
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 88
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 88
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 88
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 87
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 96
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 113
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 127
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 138
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 148
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 158
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 166
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 166
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 166
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 162
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 166
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 169
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 172
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 175
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 178
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 181
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 184
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 187
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 190
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 193
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 200
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 209
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 217
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 225
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 228
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 231
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 235
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 236
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 622
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 617
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 613
+  },
+  {
+    "step": "payment-session",
+    "status": 200,
+    "ms": 610
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 237
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 237
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 237
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 237
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 240
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 243
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 240
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 237
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 234
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 231
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 228
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 225
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 222
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 219
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 216
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 213
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 227
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 238
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 249
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 249
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 249
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 259
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 280
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 290
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 302
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 389
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 385
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 382
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 379
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 376
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 373
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 370
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 367
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 364
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 361
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 358
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 351
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 335
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 332
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 329
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 323
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 320
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 322
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 326
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 331
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 334
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 338
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 341
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 344
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 347
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 350
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 353
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 356
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 359
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 362
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 365
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 368
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 372
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 375
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 378
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 381
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 384
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 387
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 390
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 393
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 396
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 399
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 414
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 417
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 420
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 426
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "gateway-open",
+    "status": 200,
+    "ms": 429
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 432
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 438
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 441
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 439
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 436
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 435
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 483
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 491
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 383
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 391
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 398
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 415
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 423
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 418
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 415
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 412
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 410
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 403
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 400
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 397
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 394
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 391
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 388
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 385
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 382
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 379
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 376
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 373
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 370
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 367
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 364
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 361
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 358
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 355
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 351
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 348
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 345
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 342
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 334
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 328
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 325
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 322
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 319
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 313
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 316
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 319
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 321
+  },
+  {
+    "step": "gateway-confirm",
+    "status": 200,
+    "ms": 324
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 321
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 318
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 315
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 311
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 311
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 319
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 337
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1001
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 984
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 971
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 960
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 949
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 940
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 929
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 820
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 809
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 798
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 788
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 777
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 767
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 757
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 746
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 286
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 282
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 279
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 276
+  },
+  {
+    "step": "confirmation",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 274
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 282
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 291
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 299
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 308
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 319
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 335
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 343
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 351
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 360
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 354
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 357
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 359
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 361
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 364
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 366
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 368
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 371
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 373
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 376
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 378
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 380
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 383
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 699
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 690
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 386
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 388
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 254
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 262
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 270
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 278
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 285
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 294
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 304
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 312
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 320
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 327
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 335
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 343
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 351
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 359
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 369
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 377
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 385
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 392
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 400
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 408
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "my-bookings",
+    "status": 200,
+    "ms": 407
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 406
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 415
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 424
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 475
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1017
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1009
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1002
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 994
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 986
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 977
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 943
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 935
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 925
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 481
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 793
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 801
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 808
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 816
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 826
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 834
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 841
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 849
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 857
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 864
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 872
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 880
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 890
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 898
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 906
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 914
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 922
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 930
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 937
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 945
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 954
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 964
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 972
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 980
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 988
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 997
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1005
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1012
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1021
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1031
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1039
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1047
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1055
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 1055
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 1055
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 1055
+  },
+  {
+    "step": "inbox",
+    "status": 200,
+    "ms": 1055
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1062
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1070
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1078
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 1086
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 867
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 870
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 872
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 875
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 878
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 881
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 884
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 886
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1578
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1558
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1549
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1541
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1533
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1522
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1514
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1506
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1498
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1490
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1482
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 894
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 973
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 981
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 989
+  },
+  {
+    "step": "receipt-pdf",
+    "status": 200,
+    "ms": 996
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 992
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 995
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 997
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1000
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1003
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1006
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1009
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1012
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1014
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1017
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 1020
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2348
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2340
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2333
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2325
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2317
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2309
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2299
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2292
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2284
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2276
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2269
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2261
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2254
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2247
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2236
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2229
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2221
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2214
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2207
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2199
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2184
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 2175
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 129
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 132
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 135
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 138
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 141
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 144
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 147
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 150
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 153
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 156
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 158
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 163
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 176
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 179
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 182
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 184
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 187
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 191
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 193
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 196
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 199
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1606
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1598
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1591
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1583
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1573
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1566
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1558
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1551
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1543
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1536
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1528
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1521
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1510
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1503
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1495
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1487
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1479
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1472
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1464
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1456
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1448
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1438
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1430
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1422
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1415
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1406
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1398
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1391
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1382
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1373
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1365
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1357
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1349
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1341
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1333
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1326
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 1318
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 214
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 19
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 22
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 25
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 27
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 30
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 33
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 36
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 39
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 42
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 45
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 48
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 51
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 54
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 57
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 60
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 66
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 69
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 72
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 77
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 80
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 83
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 86
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 90
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 92
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 95
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 98
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 102
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 105
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 108
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 111
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 114
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 117
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 120
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 123
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 125
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 502
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 495
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 488
+  },
+  {
+    "step": "email-download",
+    "status": 200,
+    "ms": 481
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 131
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 134
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 12
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 15
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 17
+  },
+  {
+    "step": "logout",
+    "status": 200,
+    "ms": 23
+  }
+]

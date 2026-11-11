@@ -1,0 +1,30 @@
+{
+  "name": "tim-rent-car",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "backup": "node backup.mjs",
+    "benchmark": "node scripts/benchmark.mjs",
+    "format": "prettier --write *.mjs public/*.{js,css,html} tests/*.mjs scripts/*.mjs",
+    "test:load": "node scripts/load-journeys.mjs",
+    "start:monitored": "node supervisor.mjs",
+    "tls:prepare": "node scripts/local-tls.mjs",
+    "test:recovery": "node scripts/test-recovery.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "node-forge": "^1.4.3",
+    "pdfkit": "^0.17.2",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0",
+    "prettier": "^3.6.2"
+  }
+}
