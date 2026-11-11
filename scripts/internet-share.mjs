@@ -1,20 +1,17 @@
 import { spawn } from 'node:child_process';
-import { existsSync, mkdirSync, readFileSync, writeFileSync, unlinkSync, appendFileSync } from 'node:fs';
+import { existsSync, mkdirSync, writeFileSync, unlinkSync, appendFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import net from 'node:net';
+import { randomBytes } from 'node:crypto';
+import { createShareGate } from './share-gate.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const data = join(root, 'data');
 mkdirSync(data, { recursive: true });
-const settingsPath = join(data, 'internet-share-settings.json');
 const statusPath = join(data, 'internet-share-status.json');
 const stopPath = join(data, 'internet-share.stop');
-const settings = existsSync(settingsPath) ? JSON.parse(readFileSync(settingsPath, 'utf8')) : {};
-const emails = String(process.env.SHARE_ALLOWED_MAIL || settings.allowedMail || '').split(',').map(x => x.trim()).filter(Boolean);
-if (!emails.length || emails.some(x => !/^[^\s@*]+@[^\s@*]+\.[^\s@*]+$/.test(x))) {
-  throw Error('Set SHARE_ALLOWED_MAIL to your email address, or set allowedMail in data/internet-share-settings.json. Public access without email authentication is disabled.');
-}
+const accessCode = randomBytes(12).toString('hex');
 const executable = process.env.CLOUDFLARED_PATH || join(data, 'tools', 'cloudflared.exe');
 if (!existsSync(executable)) throw Error('Download cloudflared from https://developers.cloudflare.com/tunnel/downloads/ and place it in data/tools/cloudflared.exe');
 const port = Number(process.env.SHARE_PORT || 3103);
@@ -25,8 +22,12 @@ await new Promise((ok, fail) => {
   probe.listen(port, '127.0.0.1', () => probe.close(ok));
 });
 if (existsSync(stopPath)) unlinkSync(stopPath);
+const gatePort = Number(process.env.SHARE_GATE_PORT || 3104);
+if (!Number.isInteger(gatePort) || gatePort < 1024 || gatePort > 65535 || gatePort === port) throw Error('Invalid SHARE_GATE_PORT');
 let tunnel, app, timer, timeout, stopping = false, url = '', appStarted = false;
-const status = (state, extra = {}) => writeFileSync(statusPath, JSON.stringify({ state, url, allowedMail: emails, port, pid: process.pid, tunnelPid: tunnel?.pid, startedAt: new Date().toISOString(), ...extra }, null, 2));
+const gate = createShareGate({code:accessCode, origin:()=>url, upstreamPort:port});
+await new Promise((ok, fail) => { gate.once('error', fail); gate.listen(gatePort, '127.0.0.1', ok); });
+const status = (state, extra = {}) => writeFileSync(statusPath, JSON.stringify({ state, url, accessCode, authentication:'local-demo-code', port, gatePort, pid: process.pid, tunnelPid: tunnel?.pid, startedAt: new Date().toISOString(), ...extra }, null, 2));
 function stop(reason = 'stopped') {
   if (stopping) return;
   stopping = true;
@@ -35,6 +36,8 @@ function stop(reason = 'stopped') {
   status('stopped', { reason });
   if (app?.connected) app.send({ command: 'stop' });
   tunnel?.kill();
+  gate.close();
+  gate.closeAllConnections();
   const force = setTimeout(() => { app?.kill(); process.exitCode = 0; }, 4000);
   force.unref();
 }
@@ -59,7 +62,7 @@ async function startApp() {
       if (r.ok) {
         clearTimeout(timeout);
         status('running');
-        console.log('\nInternet demo: ' + url + '\nAllowed email: ' + emails.join(', ') + '\nKeep this process and computer running. Stop with Stop-Internet-Demo.cmd or Ctrl+C.');
+        console.log('\nInternet demo: ' + url + '\nDemo access code: ' + accessCode + '\nKeep this process and computer running. Stop with Stop-Internet-Demo.cmd or Ctrl+C.');
         return;
       }
     } catch {}
@@ -68,7 +71,7 @@ async function startApp() {
   if (!stopping) stop('Application did not become ready');
 }
 let output = '';
-tunnel = spawn(executable, ['tunnel', '--no-autoupdate', '--protocol', 'http2', '--url', `http://127.0.0.1:${port}`, '--allowed-mail', emails.join(',')], { cwd: root, windowsHide: true, stdio: ['ignore', 'pipe', 'pipe'] });
+tunnel = spawn(executable, ['tunnel', '--no-autoupdate', '--protocol', 'http2', '--url', `http://127.0.0.1:${gatePort}`], { cwd: root, windowsHide: true, stdio: ['ignore', 'pipe', 'pipe'] });
 status('starting');
 const onTunnelOutput = chunk => {
   appendFileSync(logPath, chunk);

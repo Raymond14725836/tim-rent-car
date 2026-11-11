@@ -1,9 +1,16 @@
 {
   "publicHttpsVerified": true,
-  "unauthenticatedAccess": "redirected to Cloudflare email authentication",
-  "localBackendHealth": true,
+  "authentication": "local-demo-code",
+  "unauthenticatedApiDenied": true,
+  "browserUnlockAndCustomerLoginVerified": true,
+  "sessionStillValidAfter6500ms": true,
   "secureCookie": true,
-  "publicOriginAccepted": true,
+  "publicBookingContractAndPaymentSessionVerified": true,
   "qrUsesPublicHttps": true,
-  "verificationScope": "Public authentication gateway plus local backend configured with public host; human mobile email/PIN journey still requires owner confirmation."
+  "tests": {
+    "pass": 31,
+    "fail": 0
+  },
+  "humanMobileConfirmation": "pending",
+  "note": "No URL, access code, session cookie or personal email is stored in this evidence."
 }

@@ -24,7 +24,7 @@ npm.cmd start
 
 ## บัญชีทดสอบ
 
-เปิดจากมือถือผ่านอินเทอร์เน็ตได้ด้วย `Start-Internet-Demo.cmd` หลังตั้งค่า Cloudflare และอีเมลที่อนุญาตตาม [INTERNET-DEMO.md](INTERNET-DEMO.md) โดยใช้ฐานข้อมูลสาธิตแยกจากระบบบนเครื่อง และปิดด้วย `Stop-Internet-Demo.cmd`
+เปิดจากมือถือผ่านอินเทอร์เน็ตได้ด้วย `Start-Internet-Demo.cmd` หลังเตรียม Cloudflare ตาม [INTERNET-DEMO.md](INTERNET-DEMO.md) โปรแกรมสร้างรหัสเข้าเดโมก่อนเข้าบัญชีทดสอบ ใช้ฐานข้อมูลแยกจากระบบบนเครื่อง และปิดด้วย `Stop-Internet-Demo.cmd`
 
 ทุกบัญชีใช้รหัสผ่าน Demo1234! ข้อมูลเป็นตัวอย่าง
 
