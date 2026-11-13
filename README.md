@@ -1,5 +1,31 @@
 # Tim Rent Car 3.0
 
+## Portfolio overview / สรุปผลงานสำหรับผู้พิจารณาฝึกงาน
+
+**Rattapong Koosakultham — รัฐพงศ์ คูสกุลธรรม**
+
+**บทบาทของผม:** ออกแบบหน้าเว็บ ทดสอบการทำงาน และใช้ AI ช่วยพัฒนาโครงการ โดยแยกบทบาทนี้ออกจากรายการความสามารถโดยรวมของระบบด้านล่าง
+
+**My contribution:** Web interface design, functional testing, and AI-assisted development. The system features below describe the project as a whole, rather than a claim that every component was independently built by me.
+
+Tim Rent Car เป็นโครงการเว็บระบบบริหารจัดการเช่ารถ ใช้ JavaScript / Node.js และ SQLite ครอบคลุมการค้นหารถ การจอง การตรวจสอบช่วงเวลาทับซ้อน การรับคืนรถ และการตรวจสภาพ โดยการชำระเงินและอีเมลเป็นระบบทดสอบสำหรับสาธิต
+
+Tim Rent Car is an academic car rental management web application using JavaScript / Node.js and SQLite. It covers vehicle search, booking with overlap checks, returns and inspections, with simulated payment and email workflows.
+
+### จุดเริ่มต้นสำหรับผู้ตรวจ / Where to start
+
+- [Source code / หน้าเว็บ](public/app.js) · [Styles / รูปแบบหน้าเว็บ](public/style.css)
+- [Demo guide / ขั้นตอนสาธิต](DEMO-GUIDE.md)
+- [Automated test cases / ชุดทดสอบระบบ](tests/system.test.mjs)
+- [Saved test results / ผลทดสอบที่บันทึกไว้](verification/tests.txt) — report records 26/26 passing cases; these are saved results, not a fresh run or a claim of sole authorship of the test suite.
+- [Example PDFs / เอกสารตัวอย่าง](examples) · [Submission status and limitations / สถานะและข้อจำกัด](SUBMISSION-STATUS.md)
+
+**ดูโค้ดได้โดยไม่ต้องเปิดโปรแกรม ส่วนการทดลองใช้เว็บต้องรันระบบตามวิธีด้านล่าง ไม่มีการรับรองลิงก์เดโมถาวรในขณะนี้**
+
+**The source can be browsed on GitHub; running the application requires the setup below. No permanent hosted demo is promised here.**
+
+---
+
 สถานะก่อนส่ง: ดู SUBMISSION-STATUS.md ก่อนกล่าวอ้างว่าผ่านทุกข้อ ยังไม่มีผลผู้ใช้ใหม่จริงและผล uptime ครบเดือน กำหนดส่งคือ 15 พฤศจิกายน 2026
 
 ระบบบริหารจัดการเช่ารถสำหรับส่งและสาธิตโครงการตามขอบเขตที่ตกลง ใช้งานครบ 4 บทบาท โดยการชำระเงินและอีเมลทำงานในสภาพแวดล้อมทดสอบภายในเครื่อง ไม่มีการเรียกเก็บเงินจริงหรือส่งอีเมลออกภายนอก
