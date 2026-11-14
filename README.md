@@ -1,5 +1,14 @@
 # Tim Rent Car 3.0
 
+## Project report / รายงานสรุปสำหรับสมัครงาน
+
+- [รายงาน PDF ภาษาไทย 3 หน้า](docs/portfolio-report-th.pdf)
+- [อ่านรายงานบน GitHub (Markdown)](docs/PORTFOLIO-REPORT.md)
+
+รายงานนี้สรุปภาพรวมระบบ บทบาทของผู้สมัคร หลักฐานทดสอบที่มีอยู่ และวิธีเปิดดูโครงการ สำหรับผู้พิจารณาฝึกงาน ไม่ใช่รายงานส่งอาจารย์ต้นฉบับหรือผลทดสอบใหม่
+
+This portfolio report describes project scope, confirmed applicant contributions, existing test evidence and reviewer setup steps. It does not replace the original academic submission or claim new test execution.
+
 ## Portfolio overview / สรุปผลงานสำหรับผู้พิจารณาฝึกงาน
 
 **Rattapong Koosakultham — รัฐพงศ์ คูสกุลธรรม**
