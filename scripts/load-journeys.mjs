@@ -11,7 +11,7 @@ import { ensureLocalTls } from "./local-tls.mjs";
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const data = mkdtempSync(join(tmpdir(), "tim-rent-journeys-")),
   tls = ensureLocalTls(join(data, "tls"));
-const child = spawn(process.execPath, ["server.mjs"], {
+const child = spawn(process.execPath, ["src/server.mjs"], {
   cwd: root,
   env: {
     ...process.env,

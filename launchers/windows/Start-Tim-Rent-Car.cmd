@@ -1,5 +1,5 @@
 @echo off
-cd /d "%~dp0"
+cd /d "%~dp0..\.."
 where node >nul 2>nul
 if errorlevel 1 (
  echo Please install Node.js 24 or later.
@@ -15,5 +15,5 @@ if not exist "node_modules\pdfkit\package.json" (
   exit /b 1
  )
 )
-node launch.mjs
+node scripts/launch.mjs
 pause

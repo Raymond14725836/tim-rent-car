@@ -8,7 +8,7 @@ import { promisify } from "node:util";
 import { mkdirSync, readFileSync, existsSync } from "node:fs";
 import { dirname, join, extname } from "node:path";
 import { fileURLToPath } from "node:url";
-const root = dirname(fileURLToPath(import.meta.url));
+const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const data = process.env.DATA_DIR || join(root, "data");
 mkdirSync(data, { recursive: true });
 const db = new DatabaseSync(join(data, "rental.sqlite"));

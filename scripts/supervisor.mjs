@@ -4,7 +4,7 @@ import https from "node:https";
 import { mkdirSync, appendFileSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-const root = dirname(fileURLToPath(import.meta.url)),
+const root = dirname(dirname(fileURLToPath(import.meta.url))),
   data = process.env.DATA_DIR || join(root, "data");
 mkdirSync(data, { recursive: true });
 const logfile = join(data, "availability.jsonl"),
@@ -52,7 +52,7 @@ function health() {
   );
 }
 function start() {
-  child = spawn(process.execPath, ["server.mjs"], {
+  child = spawn(process.execPath, ["src/server.mjs"], {
     cwd: root,
     env: process.env,
     stdio: ["ignore", "pipe", "inherit"],

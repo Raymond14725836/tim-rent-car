@@ -15,11 +15,11 @@
 ## เปิดดูผลงาน
 
 - [โค้ดหน้าเว็บ](public/app.js) และ [CSS](public/style.css)
-- [โค้ดเซิร์ฟเวอร์](server.mjs)
-- [ขั้นตอนสาธิต](DEMO-GUIDE.md)
-- [ตัวอย่างเอกสารที่ระบบสร้าง](examples)
-- [รายงานสรุปโครงการสำหรับ Portfolio (PDF)](docs/portfolio-report-th.pdf)
-- [รายงานสรุปฉบับ Markdown](docs/PORTFOLIO-REPORT.md)
+- [โค้ดเซิร์ฟเวอร์](src/server.mjs)
+- [ขั้นตอนสาธิต](docs/guides/DEMO-GUIDE.md)
+- [ตัวอย่างเอกสารที่ระบบสร้าง](docs/examples)
+- [รายงานสรุปโครงการสำหรับ Portfolio (PDF)](docs/reports/portfolio-report-th.pdf)
+- [รายงานสรุปฉบับ Markdown](docs/reports/PORTFOLIO-REPORT.md)
 
 ## ความสามารถหลัก
 
@@ -51,7 +51,7 @@ npm start
 
 เปิด [http://127.0.0.1:3003](http://127.0.0.1:3003) ระบบสร้างฐานข้อมูลและข้อมูลสาธิตเมื่อเริ่มใช้งานครั้งแรก หยุดเซิร์ฟเวอร์ด้วย Ctrl+C
 
-บน Windows สามารถใช้ `Start-Tim-Rent-Car.cmd` เพื่อเปิดระบบพร้อมตัวตรวจสถานะ หรือรัน `npm run start:monitored` แทน `npm start`
+บน Windows สามารถใช้ `launchers/windows/Start-Tim-Rent-Car.cmd` เพื่อเปิดระบบพร้อมตัวตรวจสถานะ หรือรัน `npm run start:monitored` แทน `npm start`
 
 ### บัญชีสาธิต
 
@@ -80,12 +80,16 @@ npm test
 
 - โครงการใช้สาธิตในเครื่อง ปัจจุบันยังไม่มีเดโมออนไลน์ถาวร
 - QR ชี้ไปหน้าชำระเงินทดสอบ ไม่ใช่ QR โอนเงินจริง
-- ยังไม่มีหลักฐาน uptime ครบหนึ่งเดือนและผลผู้ใช้ใหม่จริงตามเกณฑ์ที่ระบุใน [สถานะและข้อจำกัด](SUBMISSION-STATUS.md)
-- [ข้อกำหนดของระบบ](REQUIREMENTS.md) และ [แนวทางเก็บหลักฐานเพิ่มเติม](ACCEPTANCE-PLAN.md)
-- [การตั้งค่า HTTPS ในเครื่อง](HTTPS-LOCAL.md)
-- [การเปิดเดโมผ่านอินเทอร์เน็ต](INTERNET-DEMO.md)
-- [เครดิตภาพและฟอนต์](ASSETS.md)
+- ยังไม่มีหลักฐาน uptime ครบหนึ่งเดือนและผลผู้ใช้ใหม่จริงตามเกณฑ์ที่ระบุใน [สถานะและข้อจำกัด](docs/guides/SUBMISSION-STATUS.md)
+- [ข้อกำหนดของระบบ](docs/guides/REQUIREMENTS.md) และ [แนวทางเก็บหลักฐานเพิ่มเติม](docs/guides/ACCEPTANCE-PLAN.md)
+- [การตั้งค่า HTTPS ในเครื่อง](docs/guides/HTTPS-LOCAL.md)
+- [การเปิดเดโมผ่านอินเทอร์เน็ต](docs/guides/INTERNET-DEMO.md)
+- [เครดิตภาพและฟอนต์](docs/guides/ASSETS.md)
 
 ## การใช้ AI
 
-ใช้ AI ช่วยพัฒนาโครงการ รวมถึงการร่างโค้ดและหาแนวทางแก้ปัญหา ภาพรถสร้างสำหรับโครงการ โดยมีรายละเอียดใน [ASSETS.md](ASSETS.md)
+ใช้ AI ช่วยพัฒนาโครงการ รวมถึงการร่างโค้ดและหาแนวทางแก้ปัญหา ภาพรถสร้างสำหรับโครงการ โดยมีรายละเอียดใน [docs/guides/ASSETS.md](docs/guides/ASSETS.md)
+
+## โครงสร้างไฟล์
+
+ดู [แผนผังไฟล์และหน้าที่ของแต่ละโฟลเดอร์](docs/STRUCTURE.md) เพื่อค้นหาโค้ด เอกสาร และหลักฐานของโครงการ

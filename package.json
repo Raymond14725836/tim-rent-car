@@ -4,13 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.mjs",
+    "start": "node src/server.mjs",
     "test": "node --test tests/*.test.mjs",
-    "backup": "node backup.mjs",
+    "backup": "node scripts/backup.mjs",
     "benchmark": "node scripts/benchmark.mjs",
-    "format": "prettier --write *.mjs public/*.{js,css,html} tests/*.mjs scripts/*.mjs",
+    "format": "prettier --write src/*.mjs public/*.{js,css,html} tests/*.mjs scripts/*.mjs",
     "test:load": "node scripts/load-journeys.mjs",
-    "start:monitored": "node supervisor.mjs",
+    "start:monitored": "node scripts/supervisor.mjs",
     "tls:prepare": "node scripts/local-tls.mjs",
     "test:recovery": "node scripts/test-recovery.mjs"
   },

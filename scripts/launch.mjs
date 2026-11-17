@@ -1,7 +1,7 @@
 import { spawn } from "node:child_process";
 import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-const root = dirname(fileURLToPath(import.meta.url));
+const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const port = Number(process.env.PORT || 3003),
   url = `http://127.0.0.1:${port}`;
 if (!Number.isInteger(port) || port < 1 || port > 65535)
@@ -29,7 +29,7 @@ if (running) {
   console.log("Tim Rent Car is already running: " + url);
   open();
 } else {
-  const child = spawn(process.execPath, ["supervisor.mjs"], {
+  const child = spawn(process.execPath, ["scripts/supervisor.mjs"], {
     cwd: root,
     env: process.env,
     stdio: ["inherit", "pipe", "inherit"],

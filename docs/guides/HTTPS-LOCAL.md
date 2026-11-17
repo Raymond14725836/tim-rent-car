@@ -4,7 +4,7 @@
 
 ## เริ่มเซิร์ฟเวอร์
 
-เปิด Start-HTTPS-Test.cmd ระบบสร้าง certificate/key เฉพาะเครื่องใน data/tls หากยังไม่มี แล้วเปิด https://127.0.0.1:3443 พร้อม supervisor ใบรับรองระบุ localhost และ 127.0.0.1 เท่านั้น ไฟล์ private key ไม่รวมใน ZIP ที่ส่งมอบ
+เปิด launchers/windows/Start-HTTPS-Test.cmd ระบบสร้าง certificate/key เฉพาะเครื่องใน data/tls หากยังไม่มี แล้วเปิด https://127.0.0.1:3443 พร้อม supervisor ใบรับรองระบุ localhost และ 127.0.0.1 เท่านั้น ไฟล์ private key ไม่รวมใน ZIP ที่ส่งมอบ
 
 คำสั่ง npm run tls:prepare แสดงเส้นทางใบรับรอง fingerprint SHA-256 และวันหมดอายุ ควรเปรียบเทียบ fingerprint ก่อนตัดสินใจเชื่อถือใบรับรอง
 
@@ -20,4 +20,4 @@
 
 ## โหมด HTTP
 
-Start-Tim-Rent-Car.cmd ใช้ http://127.0.0.1:3003 เพื่อเปิดดูระบบและหน้าหลักฐานได้สะดวก แต่โหมดนี้ไม่ใช่การสาธิตการเข้ารหัสตาม NFR-7 ถ้าตรวจข้อ HTTPS ต้องใช้ endpoint HTTPS ที่เตรียมไว้และจัดการความเชื่อถือก่อน
+launchers/windows/Start-Tim-Rent-Car.cmd ใช้ http://127.0.0.1:3003 เพื่อเปิดดูระบบและหน้าหลักฐานได้สะดวก แต่โหมดนี้ไม่ใช่การสาธิตการเข้ารหัสตาม NFR-7 ถ้าตรวจข้อ HTTPS ต้องใช้ endpoint HTTPS ที่เตรียมไว้และจัดการความเชื่อถือก่อน

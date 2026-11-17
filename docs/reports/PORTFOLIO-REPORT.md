@@ -59,7 +59,7 @@ TEST DESIGN & EVIDENCE
 | ข้อมูลที่จะทดสอบ | เลือก CAR-003 รับรถ 26 พฤศจิกายน 2026 เวลา 10:00 และคืนรถ 28 พฤศจิกายน 2026 เวลา 10:00 |
 | ขั้นตอน | เข้าสู่ระบบเจ้าหน้าที่ เลือกลูกค้าและรถ กำหนดวันเวลา แล้วพยายามยืนยันการจอง |
 | ผลที่คาดหวัง | แจ้งเตือนช่วงเวลาทับซ้อน และไม่สร้างรายการจองซ้ำ |
-| หลักฐานที่อ้างอิง | DEMO-GUIDE.md อธิบายวิธีสาธิต และ verification/tests.txt บันทึกผล TC2-U เป็นผ่าน |
+| หลักฐานที่อ้างอิง | docs/guides/DEMO-GUIDE.md อธิบายวิธีสาธิต และ verification/tests.txt บันทึกผล TC2-U เป็นผ่าน |
 
 แยกผลคาดหวังออกจากผลจริง:  ตารางนี้เป็นสรุปการออกแบบกรณีทดสอบ ส่วนผลผ่านอ้างอิงไฟล์ผลทดสอบอัตโนมัติที่บันทึกไว้ ไม่ใช่การกรอก Actual Result จากการทดลองด้วยตนเองรอบใหม่
 
@@ -73,13 +73,13 @@ TEST DESIGN & EVIDENCE
 ### 7. ข้อจำกัดในการอ้างผล
 
 - การชำระเงินและอีเมลเป็น Test Gateway / Test Inbox ไม่มีการรับเงินจริงหรือส่งอีเมลภายนอก
-- SUBMISSION-STATUS.md ระบุว่ายังไม่มีผลผู้ใช้ใหม่จริงสำหรับเกณฑ์เรียนรู้ภายใน 5 นาที
+- docs/guides/SUBMISSION-STATUS.md ระบุว่ายังไม่มีผลผู้ใช้ใหม่จริงสำหรับเกณฑ์เรียนรู้ภายใน 5 นาที
 - ยังไม่มีหลักฐาน uptime ครบหนึ่งเดือน จึงไม่อ้างว่าผ่านเกณฑ์ 99% ต่อเดือน
 - ผลโหลดและประสิทธิภาพที่บันทึกไว้เป็นผลในสภาพแวดล้อมทดสอบ ไม่ใช่การรับรองทุกเครื่องหรือโฮสต์
 
 ### แหล่งหลักฐาน
 
-[ผลทดสอบ 26 กรณี ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/verification/tests.txt)[กรณีทดสอบในโค้ด ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/tests/system.test.mjs)[สถานะและข้อจำกัด ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/SUBMISSION-STATUS.md)
+[ผลทดสอบ 26 กรณี ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/verification/tests.txt)[กรณีทดสอบในโค้ด ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/tests/system.test.mjs)[สถานะและข้อจำกัด ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/docs/guides/SUBMISSION-STATUS.md)
 
 REVIEWER GUIDE & REFERENCES
 
@@ -89,7 +89,7 @@ REVIEWER GUIDE & REFERENCES
 
 เปิด Repository เพื่ออ่านโค้ดและเอกสารได้ทันทีโดยไม่ต้องติดตั้ง ส่วนการทดลองเว็บต้องติดตั้งและรันในเครื่องตาม README ยังไม่ได้ระบุเดโมออนไลน์ถาวรไว้ในรายงานนี้
 
-[Repository: Raymond14725836/tim-rent-car ↗](https://github.com/Raymond14725836/tim-rent-car)[หน้าเว็บและการแสดงผล: public/app.js ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/public/app.js)[API และการจัดการข้อมูล: server.mjs ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/server.mjs)[เอกสาร PDF และอีเมล: documents.mjs ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/documents.mjs)[เอกสารตัวอย่างที่ระบบสร้าง: examples/ ↗](https://github.com/Raymond14725836/tim-rent-car/tree/main/examples)
+[Repository: Raymond14725836/tim-rent-car ↗](https://github.com/Raymond14725836/tim-rent-car)[หน้าเว็บและการแสดงผล: public/app.js ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/public/app.js)[API และการจัดการข้อมูล: src/server.mjs ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/src/server.mjs)[เอกสาร PDF และอีเมล: src/documents.mjs ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/src/documents.mjs)[เอกสารตัวอย่างที่ระบบสร้าง: examples/ ↗](https://github.com/Raymond14725836/tim-rent-car/tree/main/docs/examples)
 
 ### 9. การติดตั้งแบบย่อ
 
@@ -103,7 +103,7 @@ npm ci
 npm start
 ```
 
-npm start เปิดเซิร์ฟเวอร์โดยตรง หากต้องการ health monitor ตามคู่มือ ให้ใช้ npm run start:monitored หรือ Start-Tim-Rent-Car.cmd
+npm start เปิดเซิร์ฟเวอร์โดยตรง หากต้องการ health monitor ตามคู่มือ ให้ใช้ npm run start:monitored หรือ launchers/windows/Start-Tim-Rent-Car.cmd
 
 ### 10. ลำดับสาธิตที่แนะนำ
 
@@ -114,7 +114,7 @@ npm start เปิดเซิร์ฟเวอร์โดยตรง หา
 
 ### 11. เอกสารอ้างอิงของรายงานนี้
 
-[README - ภาพรวมและวิธีเริ่มใช้งาน ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/README.md)[DEMO-GUIDE - ลำดับการสาธิต ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/DEMO-GUIDE.md)[REQUIREMENTS - ข้อกำหนดและหลักฐาน ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/REQUIREMENTS.md)[SUBMISSION-STATUS - สถานะจริงและงานที่ยังไม่ครบ ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/SUBMISSION-STATUS.md)
+[README - ภาพรวมและวิธีเริ่มใช้งาน ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/README.md)[DEMO-GUIDE - ลำดับการสาธิต ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/docs/guides/DEMO-GUIDE.md)[REQUIREMENTS - ข้อกำหนดและหลักฐาน ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/docs/guides/REQUIREMENTS.md)[SUBMISSION-STATUS - สถานะจริงและงานที่ยังไม่ครบ ↗](https://github.com/Raymond14725836/tim-rent-car/blob/main/docs/guides/SUBMISSION-STATUS.md)
 
 ข้อมูลอ้างอิงตรวจจาก Repository ณ วันที่ 14 พฤศจิกายน 2026 รายงานนี้ไม่เพิ่มผลทดสอบย้อนหลัง และไม่อ้างผลการใช้งานธุรกิจจริง
 

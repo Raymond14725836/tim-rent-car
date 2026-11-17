@@ -35,7 +35,7 @@ async function login(role) {
   return r.cookie;
 }
 before(async () => {
-  server = spawn(process.execPath, ["server.mjs"], {
+  server = spawn(process.execPath, ["src/server.mjs"], {
     cwd: root,
     env: { ...process.env, PORT: "0", DATA_DIR: dir },
     stdio: ["ignore", "pipe", "pipe"],

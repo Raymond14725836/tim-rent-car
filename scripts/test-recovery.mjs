@@ -4,7 +4,7 @@ import { mkdtempSync, readFileSync, mkdirSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
-import { availabilitySummary } from "../availability.mjs";
+import { availabilitySummary } from "../src/availability.mjs";
 const root = dirname(dirname(fileURLToPath(import.meta.url))),
   data = mkdtempSync(join(tmpdir(), "tim-recovery-"));
 const port = await new Promise((resolve) => {
@@ -14,7 +14,7 @@ const port = await new Promise((resolve) => {
     s.close(() => resolve(p));
   });
 });
-const supervisor = spawn(process.execPath, ["supervisor.mjs"], {
+const supervisor = spawn(process.execPath, ["scripts/supervisor.mjs"], {
   cwd: root,
   env: {
     ...process.env,

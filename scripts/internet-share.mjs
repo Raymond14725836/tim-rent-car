@@ -51,7 +51,7 @@ async function startApp() {
   const env = { ...process.env, PORT: String(port), DATA_DIR: join(data, 'internet-demo'), PUBLIC_BASE_URL: url, COOKIE_SECURE: '1' };
   delete env.TLS_CERT_FILE;
   delete env.TLS_KEY_FILE;
-  app = spawn(process.execPath, ['supervisor.mjs'], { cwd: root, env, windowsHide: true, stdio: ['ignore', 'pipe', 'pipe', 'ipc'] });
+  app = spawn(process.execPath, ['scripts/supervisor.mjs'], { cwd: root, env, windowsHide: true, stdio: ['ignore', 'pipe', 'pipe', 'ipc'] });
   app.stdout.on('data', chunk => process.stdout.write(chunk));
   app.stderr.on('data', chunk => process.stderr.write(chunk));
   app.on('error', error => stop(error.message));
